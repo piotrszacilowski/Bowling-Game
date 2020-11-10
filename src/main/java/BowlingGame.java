@@ -1,5 +1,7 @@
 public class BowlingGame {
-    public static void main(String[] args) {
 
+    public int getScore() {
+        return -1;
     }
+
 }
